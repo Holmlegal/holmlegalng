@@ -3,5 +3,5 @@ title: Home
 menus:
   main:
     weight: 1
-layout: store
+layout: page
 ---
