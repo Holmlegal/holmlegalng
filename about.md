@@ -33,6 +33,6 @@ bulletpoints:
       fallback: images/team.jpg
 menus:
   main:
-    weight: 2
+    weight: 5
 layout: about
 ---

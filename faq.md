@@ -43,6 +43,6 @@ questions:
       meaningful enough.
 menus:
   main:
-    weight: 3
+    weight: 7
 layout: faq
 ---
