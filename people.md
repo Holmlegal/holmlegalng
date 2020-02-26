@@ -1,5 +1,5 @@
 ---
-title: About
+title: People
 headline: We are Holmlegal
 introduction: >-
   We are legal practitioners based in Lagos, Nigeria.
@@ -38,5 +38,5 @@ bulletpoints:
 menus:
   main:
     weight: 3
-layout: about
+layout: people
 ---
