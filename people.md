@@ -38,5 +38,5 @@ bulletpoints:
 menus:
   main:
     weight: 3
-layout: page
+layout: about
 ---
