@@ -20,6 +20,13 @@ bulletpoints:
     image:
       optimized: images/RichardOkeopara.webp
       fallback: images/RichardOkeopara.jpg
+
+  - title: Ebuka Omerole
+    description: >-
+      Ebuka heads the firm's secretarial services and capital markets practice. He is an expert in corporate and commercial law and on the firm's advisory booard on Capital Market and Infrastructure. He is a graduate of University of Lagos, Akoka.
+    image:
+      optimized: images/ebukaOmerole.webp
+      fallback: images/ebukaOmerole.jpg
   
   - title: Tomiwa Babatunde
     description: >-
