@@ -7,7 +7,7 @@ description: >-
 menus:
   main:
     weight: 2
-layout: page
+layout: body
 ---
 introduction: >-
   We are legal practitioners based in Lagos, Nigeria.
